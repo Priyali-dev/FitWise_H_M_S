@@ -5,8 +5,7 @@
 
 Health Tracker is your one stop solution to keep your heath related information in a secured way.
 
-## Author
-<a href="https://github.com/saptarshiweb"><img src="https://contrib.rocks/image?repo=saptarshiweb/cryptotracker"></a>
+
 
 ## Contents
 
